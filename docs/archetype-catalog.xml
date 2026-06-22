@@ -5,14 +5,14 @@
   <archetypes>
     <archetype>
       <groupId>io.github.fuzhengwei</groupId>
-      <artifactId>ddd-scaffold-lite-jdk17</artifactId>
-      <version>1.5</version>
+      <artifactId>ddd-scaffold-jdk17</artifactId>
+      <version>1.0</version>
       <description>ddd scaffold lite ddd jdk 17 by xiaofuge</description>
     </archetype>
     <archetype>
       <groupId>cn.bugstack.ai</groupId>
-      <artifactId>ai-agent-scaffold-lite-archetype</artifactId>
-      <version>1.1</version>
+      <artifactId>ai-agent-scaffold-archetype</artifactId>
+      <version>1.0</version>
       <description>Parent pom providing dependency and plugin management for applications built with Maven</description>
     </archetype>
   </archetypes>
